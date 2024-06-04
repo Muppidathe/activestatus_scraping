@@ -13,3 +13,6 @@ Data Visualization: Visualize active status data using charts or graphs (optiona
 <li>Chrome WebDriver (or any other browser driver)</li>
 <li>Instagram Account</li>
 </ul>
+<h3>output</h3>
+<img>![image](https://github.com/Muppidathe/activestatus_scraping/assets/83640040/a353ca54-58e7-46d0-bd41-6828001d4e41)
+</img>
