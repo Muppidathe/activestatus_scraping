@@ -17,10 +17,12 @@ chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument('--window-size=1920,1080')
 driver = webdriver.Chrome(options=chrome_options)
 driver.implicitly_wait(10)
+#account credentials
 username="muppidathi._"
-password='€urious'                                                                                      
-targeturl='https://www.instagram.com/direct/t/17842136225561936/'
-instausername="c_r_a_z_y_b_a_b_y_143"
+password='XXXXXX'                                                                                      
+targeturl='https://www.instagram.com/direct/t/17845628168854651/'
+#targetusername
+instausername="lone._._.wo.lf"
 filename=instausername+".csv"
 e=False
 active_status_text=" "
